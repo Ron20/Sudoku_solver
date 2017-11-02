@@ -1,5 +1,5 @@
 /**
-* Sudoku solver by using brute-force
+* Sudoku solver using recursion
 * Author: Ronith 
 *
 **/ 
