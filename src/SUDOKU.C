@@ -1,5 +1,5 @@
 /**
-* Sudoku solver by using brute-force algorithm 
+* Sudoku solver by using brute-force
 * Author: Ronith 
 *
 **/ 
